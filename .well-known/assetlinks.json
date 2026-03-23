@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.somepomed.footcademy",
+        "sha256_cert_fingerprints": ["38:43:2D:64:D9:0E:ED:96:F7:62:4F:31:B6:26:FA:E9:EE:EA:6B:B5:91:0A:84:E7:75:E7:DD:6A:F1:23:C8:73"]
+      }
+    }]
